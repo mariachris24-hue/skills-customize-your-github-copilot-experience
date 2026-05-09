@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn how to build REST APIs using FastAPI, including routes, models, and validation.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-06-10"
     }
   ]
 }
