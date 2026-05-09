@@ -65,6 +65,13 @@
       "description": "Learn how to build REST APIs using FastAPI, including routes, models, and validation.",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-06-10"
+    },
+    {
+      "id": "fastapi-sqlite-api",
+      "title": "Building Database-Backed APIs with FastAPI and SQLite",
+      "description": "Extend FastAPI by building CRUD APIs backed by a SQLite database.",
+      "path": "assignments/fastapi-sqlite-api",
+      "dueDate": "2026-06-20"
     }
   ]
 }
